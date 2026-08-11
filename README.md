@@ -2,4 +2,5 @@
 <h2> Contributors </h2>
 <li>Noah McCarthy</li>
 <li>Adam Bailey</li>
+<h3> Description </h3>
 <p>The focus is DevOps</p>
